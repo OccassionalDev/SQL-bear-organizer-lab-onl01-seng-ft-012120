@@ -1,4 +1,4 @@
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Mr. Chocolate', 24, 'M', 'Brave')
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Mr. Chocolate', 24, 'M', '', 'Brave')
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Rowdy', 17, 'M', 'Hasty')
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Tabitha', 16, 'F', 'Gentle')
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Sergeant Brown', 27, 'M', 'Adamant')
