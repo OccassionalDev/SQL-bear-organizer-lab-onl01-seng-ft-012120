@@ -1,1 +1,1 @@
-INSERT INFO
+INSERT INTO bears
